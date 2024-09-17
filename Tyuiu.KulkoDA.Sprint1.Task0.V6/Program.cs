@@ -28,6 +28,7 @@ namespace Tyuiu.KulkoDA.Sprint1.Task0.V6
             Console.WriteLine("***************************************************************************");
             Console.WriteLine(ds.Calculate());
             Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
