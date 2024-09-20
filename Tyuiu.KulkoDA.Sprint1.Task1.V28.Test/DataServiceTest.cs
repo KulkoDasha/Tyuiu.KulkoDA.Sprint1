@@ -12,6 +12,7 @@ namespace Tyuiu.KulkoDA.Sprint1.Task1.V28.Test
             double x = 1.0;
             var res  = ds.Calculate(x);
             Assert.AreEqual(1, res);
+            
         }
     }
 }
